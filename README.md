@@ -1,1 +1,2 @@
-Random Message Generator - A Codecademy Project
+#Random Message Generator
+##A Codecademy Project
